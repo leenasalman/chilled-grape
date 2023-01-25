@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/chilled-grape/static/css/main.073c9b0a.css",
-    "main.js": "/chilled-grape/static/js/main.4f3bf72c.js",
+    "main.css": "/chilled-grape/static/css/main.b7c506a3.css",
+    "main.js": "/chilled-grape/static/js/main.d5d6fe1e.js",
     "static/js/787.882228ac.chunk.js": "/chilled-grape/static/js/787.882228ac.chunk.js",
-    "static/media/logo.svg": "/chilled-grape/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/plant-img.png": "/chilled-grape/static/media/plant-img.ceb462f8dc84a87bd4f3.png",
+    "static/media/footer-bubble.png": "/chilled-grape/static/media/footer-bubble.f3c147888e75ce3fbea2.png",
+    "static/media/background-bubble-5.png": "/chilled-grape/static/media/background-bubble-5.61686132439f5de3c8ad.png",
+    "static/media/background-bubble-4.png": "/chilled-grape/static/media/background-bubble-4.bc988d42b7f6d4cf5280.png",
+    "static/media/hero-bg.png": "/chilled-grape/static/media/hero-bg.25790755346af959a140.png",
     "index.html": "/chilled-grape/index.html",
-    "main.073c9b0a.css.map": "/chilled-grape/static/css/main.073c9b0a.css.map",
-    "main.4f3bf72c.js.map": "/chilled-grape/static/js/main.4f3bf72c.js.map",
+    "main.b7c506a3.css.map": "/chilled-grape/static/css/main.b7c506a3.css.map",
+    "main.d5d6fe1e.js.map": "/chilled-grape/static/js/main.d5d6fe1e.js.map",
     "787.882228ac.chunk.js.map": "/chilled-grape/static/js/787.882228ac.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.4f3bf72c.js"
+    "static/css/main.b7c506a3.css",
+    "static/js/main.d5d6fe1e.js"
   ]
 }
